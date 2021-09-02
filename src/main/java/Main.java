@@ -2,6 +2,8 @@ public class Main {
 
     public static void main(String[] args){
         System.out.println("It works");
+
+        System.out.println("Another line");
     }
 
     public int sum(int a, int b){
